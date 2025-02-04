@@ -1,3 +1,8 @@
-# 300code
+# Coding Everyday Until I Get A Job
 
-Coding Everyday Until I Get A Job I Want
+## LeetCode Solutions 
+
+| # | Title | Solution | Type | Difficulty |
+|---| ----- | -------- | ---------- | ---------- |
+|0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python]()|Array & Hashing| Easy |
+
