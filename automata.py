@@ -44,7 +44,7 @@ def build_readme():
     
     problem_entries.sort()
     
-    table_header = "| # | Title | Solution | Tags | Difficulty |\n|---| ----- | -------- | ---------- | ---- |"
+    table_header = "| # | Title | Solution | Topics | Difficulty |\n|---| ----- | -------- | ---------- | ---- |"
     table_rows = []
     
     for number, title, solution, tags, difficulty in problem_entries:
