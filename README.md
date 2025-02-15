@@ -4,7 +4,7 @@ Welcome to my LeetCode solutions repository! 🚀 Here, I solve coding challenge
 
 ## 🔥 Problem List
 
-| # | Title | Solution | Tags | Difficulty |
+| # | Title | Solution | Topics | Difficulty |
 |---| ----- | -------- | ---------- | ---- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](./array_hashing/0001-two-sum.py)| Array, Hash Table | Easy | 
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Python](./stack/0020-valid-parentheses.py)| String, Stack | Easy | 
