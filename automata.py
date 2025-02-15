@@ -40,7 +40,7 @@ def build_readme():
                 problem_number, slug, problem_title = extract_problem_info(file)
                 if problem_number:
                     difficulty, tags = get_problem_stats(slug)
-                    problem_entries.append((problem_number, problem_title, f"[Python](./{topic}/{file})", difficulty, tags))
+                    problem_entries.append((problem_number, problem_title, f"[Python](./{topic}/{file})", tags, difficulty))
     
     problem_entries.sort()
     
